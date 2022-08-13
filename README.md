@@ -1,1 +1,3 @@
-# tic_tac_toe
+# The undefeted Tic Tac Toe
+
+How to run: Run this python file, from Command Promp
